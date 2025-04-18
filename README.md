@@ -1,2 +1,2 @@
-# My_new_repo
-For test
+#Interconnect
+Customer Churn Prediction for Interconnect Telecom Operator
